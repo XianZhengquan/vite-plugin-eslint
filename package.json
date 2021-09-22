@@ -1,6 +1,6 @@
 {
   "name": "@xianzhengquan/vite-eslint-plugin",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "用于vite2+的eslint plugin",
   "main": "index.js",
   "scripts": {
@@ -8,9 +8,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ehutch79/vite-eslint.git"
+    "url": "git+https://github.com/XianZhengquan/vite-plugin-eslint.git"
   },
-  "homepage": "https://github.com/ehutch79/vite-eslint#readme",
+  "homepage": "https://github.com/XianZhengquan/vite-plugin-eslint",
   "author": "xianzhengquan",
   "license": "MIT",
   "dependencies": {
